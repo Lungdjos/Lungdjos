@@ -36,4 +36,4 @@
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lungdjos&show_icons=true&locale=en&layout=compact" alt="Lungdjos" /></p>
  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Lungdjos&show_icons=true&locale=en" alt="Lungdjos" /></p>
  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lungdjos&" alt="Lungdjos" /></p>
- <p><img src="https://activity-graph.herokuapp.com/graph/?username=Lungdjos&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph"/></p>
+<!--  <p><img src="https://activity-graph.herokuapp.com/graph/?username=Lungdjos&bg_color=0c1117&color=00883d&line=0a261f&area_color=0a261f&point=065831&area=true&hide_border=true&hide_title=false&custom_title=Contribution+Graph"/></p> -->
