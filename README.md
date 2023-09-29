@@ -12,7 +12,7 @@
 
  - 🎓 I hold a Bachelor's Degree in Computer Science from <a href="https://www.cbu.ac.zm/" target="blank">The Copperbelt University</a>
 
- - 👨‍💻 All of my projects are available at [https://github.com/Lungdjos](https://github.com/Lungdjos) 
+ - 👨‍💻 All of my public projects are available at [https://github.com/Lungdjos](https://github.com/Lungdjos) 
 
  - 💬 Ask me about **Java, Python, HTML, CSS** 
 
