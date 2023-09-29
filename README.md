@@ -2,7 +2,7 @@
  <h3 align="center">A passionate software developer based in Zambia.</h3> 
 
 
- <p align="left"> <a href="https://twitter.com/lungud78" target="_blank"><img src="https://img.shields.io/x/follow/lungud78?logo=twitter&style=for-the-badge" alt="lungud78" /></a> </p> 
+ <p align="left"> <a href="https://twitter.com/lungud78" target="_blank"><img src="https://img.shields.io/twitter/follow/lungud78?logo=twitter&style=for-the-badge" alt="lungud78" /></a> </p> 
 
  - 🔭 I’m currently working as a Software Developer in Zambia
 
