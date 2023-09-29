@@ -1,12 +1,12 @@
- <h1 align="center">Hi  👋 I am David</h1> 
+ <h1 align="center">Hi  👋 I am Lungu David</h1> 
  <h3 align="center">A passionate software developer based in Zambia.</h3> 
 
 
- <p align="left"> <a href="https://twitter.com/lungud78" target="_blank"><img src="https://img.shields.io/twitter/follow/Lungdjos?logo=twitter&style=for-the-badge" alt="Lungdjos" /></a> </p> 
+ <p align="left"> <a href="https://twitter.com/lungud78" target="_blank"><img src="https://img.shields.io/x/follow/lungud78?logo=twitter&style=for-the-badge" alt="lungud78" /></a> </p> 
 
  - 🔭 I’m currently working as a Software Developer in Zambia
 
- - 🌱 I’m currently learning **Dart, C# and Devops**
+ - 🌱 I’m currently learning **Web Development, Dart, C# and Devops**
 
  - 👯 I’m looking to collaborate on **any cool open source projects** 
 
@@ -23,7 +23,7 @@
 
  <h3 align="left">Connect with me:</h3>
  <p align="left">
- <a href="https://twitter.com/lungud78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Lungdjos" height="30" width="40" /></a>
+ <a href="https://x.com/lungud78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lungud78" height="30" width="40" /></a>
 
  <a href="https://www.linkedin.com/in/david-lungu-5383b71b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Lungdjos" height="30" width="40" /></a>
 
